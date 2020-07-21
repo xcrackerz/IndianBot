@@ -8,7 +8,7 @@ from telethon import events
 
 import asyncio
 
-from uniborg.util import admin_cmd
+from userbot.ulils import admin_cmd
 
 
 
