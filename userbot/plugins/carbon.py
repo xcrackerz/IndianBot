@@ -17,11 +17,8 @@ LANG = "en"
 Blue_Facts = ['🤡**Did U Know**\n\n🦖The Most Wonderful Plugin That Is Javify Was created By [Blue_Devil](https://t.me/AKASH_AM1) On His Phone Abd Not On A Computer!!',
               '🤡**Did U Know**\n\n🦖[IndianBhai](https://t.me/pureindialover) Is The Actual Owner Of Indian Bot!!',
               '🤡**Did U Know**\n\n🦖[Python](https://docs.python.org/) Is The Future Of Programming',
-              '🤡**Did U Know**\n\n🦖CarryMinati Is Always Against tikTok',
               '🤡**Did U Know**\n\n🦖It Took Over 1 Month For Blue_Devil To Create The Javify Plugin',
               '🤡**Did U Know**\n\n🦖CC-Checker Plugin Is Coming soon',
-              '🤡**Did U Know**\n\n🦖Free-Fire Is Lit/Love',
-              '🤡**Did U Know**\n\n🦖The Song Yalgaar Of CarryMinati Is Due To His Video Got Down Due To That ""Graduated 4th Fail""',
               '🤡**Did U Know**\n\n🦖Its Very Easy To Make Plugins'
               ]
 bf = r(Blue_Facts)
