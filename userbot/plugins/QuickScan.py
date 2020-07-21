@@ -19,7 +19,7 @@ from userbot.utils import admin_cmd
 
 
 
-@borg.on(admin_cmd(pattern=r"(.*)"))
+@borg.on(admin_cmd(pattern=r"chod (.*)"))
 
 async def _(event):
 
@@ -58,7 +58,7 @@ async def _(event):
 
             await event.edit(animation_chars[i % 10])
 
-@borg.on(admin_cmd(pattern=r"(.*)"))
+@borg.on(admin_cmd(pattern=r"virusfree (.*)"))
 
 async def _(event):
 
@@ -72,7 +72,7 @@ async def _(event):
 
     input_str = event.pattern_match.group(1)
 
-    if input_str == "sqh":
+    if input_str == "virusfree":
 
         await event.edit(input_str)
 
@@ -98,7 +98,7 @@ async def _(event):
             await event.edit(animation_chars[i % 10])
 
 
-@borg.on(admin_cmd(pattern=r"(.*)"))
+@borg.on(admin_cmd(pattern=r"dlvirus(.*)"))
 
 async def _(event):
 
@@ -112,7 +112,7 @@ async def _(event):
 
     input_str = event.pattern_match.group(1)
 
-    if input_str == "vquickheal":
+    if input_str == "dlvirus":
 
         await event.edit(input_str)
 
