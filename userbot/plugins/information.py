@@ -53,7 +53,7 @@ async def _(event):
 <b>Number of PPs</b>: {}
 <b>Restricted?</b> : {}
 <b>Verified</b>: {}
-<b>Bot(nub)</b>: {}
+<b>Bot</b>: {}
 <b>Groups in Common</b>: {}
 """.format(
         user_id,
